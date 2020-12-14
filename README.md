@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/saqibkafeel/AsyncViewController/develop/readme-images/async.png" alt="Flow Diagram" title="Flow Diagram" width="128"  height="128"/><br/>
+    <img src="https://github.com/saqibkafeel/AsyncViewController-develop/blob/master/readme-images/async.png?raw=true" width="128"  height="128"/><br/>
     <b>AsyncViewController</b><br/>
     <br/>
     <img src="https://img.shields.io/badge/Swift-5-orange" alt="Swift Version" title="Swift Version"/>
@@ -24,7 +24,7 @@
 
 The `AsyncViewController` works as a bridge between loading your data for a specific view and presenting the view controller. It presents a loading screen as long as you're waiting for a response and you can provide the destination view controllers (either for success or error) beforehand without having to put all this logic into your final view controller.
 
-<img src="https://raw.githubusercontent.com/saqibkafeel/AsyncViewController/develop/readme-images/flow-diagram.png" alt="Flow Diagram" title="Flow Diagram"/>
+<img src="https://github.com/saqibkafeel/AsyncViewController-develop/blob/master/readme-images/async-view-controller-demo.gif?raw=true" />
 
 ## 🖥 Example
 
