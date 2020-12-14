@@ -24,7 +24,7 @@
 
 The `AsyncViewController` works as a bridge between loading your data for a specific view and presenting the view controller. It presents a loading screen as long as you're waiting for a response and you can provide the destination view controllers (either for success or error) beforehand without having to put all this logic into your final view controller.
 
-<img src="https://github.com/saqibkafeel/AsyncViewController-develop/blob/master/readme-images/async-view-controller-demo.gif?raw=true" />
+<img src="https://github.com/saqibkafeel/AsyncViewController/blob/master/readme-images/flow-diagram.png?raw=true" />
 
 ## 🖥 Example
 
@@ -79,7 +79,7 @@ func presentBookViewController(bookId: Int) {
 
 ## 🎟 Demo
 
-<img src="https://raw.githubusercontent.com/saqibkafeel/AsyncViewController/develop/readme-images/async-view-controller-demo.gif" alt="Async View Controller Demo" title="Async View Controller Demo" width="320"/>
+<img src="https://github.com/saqibkafeel/AsyncViewController/blob/master/readme-images/async-view-controller-demo.gif?raw=true" alt="Async View Controller Demo" title="Async View Controller Demo" width="320"/>
 
 You can find this demo app in this repository.
 
